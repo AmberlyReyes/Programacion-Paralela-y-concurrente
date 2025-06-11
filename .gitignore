@@ -2,6 +2,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+# Ignorar configuración del IDE
+.idea/
+*.iml
 
 ### Eclipse ###
 .apt_generated
